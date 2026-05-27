@@ -50,7 +50,7 @@
     <header id="inicio" class="hero-section text-center">
         <div class="container">
             <h1 class="display-2 fw-bold">Tu Italika siempre al 100</h1>
-            <p class="lead mb-4">El motor de tu camino, con piezas de calidad.</p>
+            <p class="lead mb-4">El motor de tu camino, con piezas de verdadera calidad.</p>
             <a href="#nosotros" class="btn btn-outline-light btn-lg">Conócenos</a>
         </div>
     </header>
