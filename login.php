@@ -24,7 +24,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-4 card p-4 shadow">
-                <h3 class="text-center">tercera oportunidad TSODRL</h3>
+                <h3 class="text-center">tercera oportunidad TSO DRL</h3>
                 <?php if($error) echo "<div class='alert alert-danger'>$error</div>"; ?>
                 <form method="POST">
                     <div class="mb-3">
